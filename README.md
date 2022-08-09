@@ -14,7 +14,7 @@ This app scrapes the HTML from a site. Functions included will:
 # How to run app
 
 run **node js-file "url"**
-note: url only works with webscraper.js, so only do not include url to run other files
+note: url only works with webscraper.js. Do not include url to run other files
 
 #### JS Files
 **webscraper.js** contains all functions to scrape
